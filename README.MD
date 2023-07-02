@@ -1,5 +1,5 @@
 # 💫 About Me:
-Motivated B.Texh graduate looking to apply extensive skills in Data Science related platforms.
+Motivated B.Tech graduate looking to apply extensive skills in Data Science related platforms.
 
 
 ## 🌐 Socials:
