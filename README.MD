@@ -1,5 +1,5 @@
 # 💫 About Me:
-B.Tech. professional in Computer Science, targeting Data Science with proficiency in Python, Machine Learning and AI.
+Motivated B.Texh graduate looking to apply extensive skills in Data Science related platforms.
 
 
 ## 🌐 Socials:
